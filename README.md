@@ -62,4 +62,4 @@ Here are some of the advanced Google Cloud skill badges I’ve earned:
 - 🧹 **Data Governance with Dataplex**
 - ☁️ **Kubernetes in Google Cloud**
 
-🔗 View more badges on [my Credly profile](https://www.credly.com/users/shashrwat-shukla/badges)
+🔗 View more badges on [my Credly profile](https://www.credly.com/users/shashrwatshukla/badges)
