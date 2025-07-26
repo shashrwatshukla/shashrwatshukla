@@ -48,8 +48,18 @@
 
 ---
 
-### 📈 GitHub Activity Graph:
+### 🏅 High-Level Google Cloud Skill Badges
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shashrwatshukla&theme=react-dark" />
-</p>
+Here are some of the advanced Google Cloud skill badges I’ve earned:
+
+- 🧠 **Vertex AI: Build and Use Large Language Models (Gemini)**
+- 📊 **BigQuery for Machine Learning & Data Analysis**
+- 📈 **Looker for Business Intelligence**
+- 🔐 **Cloud Functions, Pub/Sub & API Gateway**
+- 🌐 **Deploy to App Engine, Use Cloud Run**
+- ⚙️ **Infrastructure as Code with Terraform**
+- 🧪 **MLOps Pipeline on Vertex AI**
+- 🧹 **Data Governance with Dataplex**
+- ☁️ **Kubernetes in Google Cloud**
+
+🔗 View more badges on [my Credly profile](https://www.credly.com/users/shashrwat-shukla/badges)
